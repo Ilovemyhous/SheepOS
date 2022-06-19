@@ -75,15 +75,24 @@ Also, watch out on the allowed maximum RAM usage.
 
 10. Save and close the text editor.
 
-11. Head back to the `base` folder.
+11. Now, open `SheepItClient.sh`.
 
-12. Right click on the SheepIt module folder, and then `Create xzm module`.
+12. Edit the 4th line with your username and password/renderkey.
+
+![image](https://user-images.githubusercontent.com/50217071/174492300-f1d57903-a3ea-4fa6-a36d-528a3c8bc352.png)
+
+
+13. Save and close the text editor.
+
+14. Head back to the `base` folder.
+
+13. Right click on the SheepIt module folder, and then `Create xzm module`.
 
 ![image](https://user-images.githubusercontent.com/50217071/174491144-7fbb8907-e210-4083-a212-7611e66cce02.png)
 
-12.1. (Optional) Delete the module **folder**.
+13.1. (Optional) Delete the module **folder**.
 
-13. Reboot!
+14. Reboot!
 
 ## Adding own modules (e.g. nvidia-drivers)
 
